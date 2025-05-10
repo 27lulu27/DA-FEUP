@@ -1,5 +1,5 @@
 # FEUP-DA 2023/2024
-First and second projects in C++ for the Algorithm Design curricular unit.
+First and Second Projects in C++ for the Algorithm Design curricular unit.
 
 ## Project Infos
 
